@@ -1,4 +1,4 @@
-# Projekto medziaga
+# Projekto medziaga 
 
 # Git komandos
 git clone
@@ -10,3 +10,4 @@ ctrl + c kopijavimas
 ctrl + v Iklijavimas
 ctrl + s issaugojimas
 ctrl + a pazymi viska
+
