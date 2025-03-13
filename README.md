@@ -1,7 +1,7 @@
 # Projekto medziaga 
 
 # Git komandos
-git clone
+git clone REPOZITORIJOS_ADRESAS  klonuoja repozitorija
 
 git pull
 
