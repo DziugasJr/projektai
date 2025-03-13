@@ -3,7 +3,7 @@
 # Git komandos
 git clone REPOZITORIJOS_ADRESAS  klonuoja repozitorija
 
-git pull
+git pull - atnaujinas repozitorijos turini
 
 # klavisu kombinacijos
 ctrl + c kopijavimas
